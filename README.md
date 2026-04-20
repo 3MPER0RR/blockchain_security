@@ -11,7 +11,7 @@ pandas numpy networkx matplotlib python-dotenv colorama tabulate
 
 ## Usage
 
-Bitcoin
+Bitcoin    >>>>>> Bitcoin old tool in rust https://github.com/3MPER0RR/BTC-address-BIP-matching-tool
 
 python3 blockchain_security_assessment.py --btc-address <addr>
 python3 blockchain_security_assessment.py --btc-tx <txid>
