@@ -43,14 +43,14 @@ python3 blockchain_security_assessment.py --full
 
 ## Functions
 
-BitcoinIndirizzo, TX, riuso, porte, RPC, CVE Core
+Bitcoin Address, TX, reuse, ports RPC, CVE Core
 
-Lightning NetworkNodo, canale, porte, CVE LND
+Lightning NetworkNode, channel, port, CVE LND
 
-EthereumIndirizzo (EIP-55), saldo, TX, smart contract, porte, CVE Geth
+Ethereum Adress (EIP-55), balance, TX, smart contract, porte, CVE Geth
 
-BSC / Polygon / Arbitrum / Optimism / AVAX / Base / FantomSaldo, TX, contratto, porte (via --network)
+BSC / Polygon / Arbitrum / Optimism / AVAX / Base / Fantom balance, TX, contract, port (via --network)
 
-Solana Indirizzo, saldo, TX
+Solana Adress, balance, TX
 
 ![Blockchainsecuritytool](BlockchainSecurityTool.png)
